@@ -37,7 +37,7 @@ void setup(){
 
 void draw(){
   // 'Submit' is the new 'draw'
-  letItSnow();
+  //letItSnow();
 }
 
 void Submit(){
